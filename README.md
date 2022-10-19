@@ -1,2 +1,1 @@
-# Auroraus-
-Auroraus文献管理软件官方发布网址
+Auroraus文献管理软件安装包官方发布网址
